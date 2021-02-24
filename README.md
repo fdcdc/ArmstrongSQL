@@ -1,6 +1,6 @@
 # ArmstrongSQL
 
-O ArmstrongSQL é uma ferramenta que implementa uma prova de conceito de como explorar blind SQL injection sem a utilização da função substring. Detalhes em https://medium.com/sidechannel-br/sql-injection-tinha-uma-v%C3%ADrgula-no-meio-do-caminho-60509f6cd74 
+O ArmstrongSQL é uma ferramenta que implementa uma prova de conceito de como explorar blind SQL injection sem a utilização da função substring. Detalhes em https://sidechannel.blog/sql-injection-tinha-uma-virgula-no-meio-do-caminho/index.html
 
 Os exemplos citados neste README consideram o exemplo de utilização do ArmstrongSQL contra uma instância do DVWA.
 
